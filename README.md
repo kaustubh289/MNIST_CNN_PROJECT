@@ -33,11 +33,11 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow to
 
 | Digit 1 | Digit 0 | Digit 5 |
 |--------|--------|--------|
-| ![](images/digit_1.png) | ![](images/digit_0.png) | ![](images/digit_5.png) |
+| ![](images/digit_1.png.jpeg) | ![](images/digit_0.png.jpeg) | ![](images/digit_5.png.jpeg) |
 
 ### 🧠 Model Architecture
 
-![](images/model_summary.png)
+![](images/model_summary.png.jpeg)
 
 ## ▶️ How to Run
 
