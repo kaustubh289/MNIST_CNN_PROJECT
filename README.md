@@ -27,6 +27,17 @@ This project implements a Convolutional Neural Network (CNN) using TensorFlow to
 ## 📈 Results
 - Training Accuracy: ~99%
 - Test Accuracy: ~98%
+- ## 📷 Results
+
+### 🔢 Sample Predictions
+
+| Digit 1 | Digit 0 | Digit 5 |
+|--------|--------|--------|
+| ![](images/digit_1.png) | ![](images/digit_0.png) | ![](images/digit_5.png) |
+
+### 🧠 Model Architecture
+
+![](images/model_summary.png)
 
 ## ▶️ How to Run
 
